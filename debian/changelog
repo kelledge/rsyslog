@@ -1,3 +1,10 @@
+rsyslog (8.6.0.r2-0adiscon4trusty1.1) trusty; urgency=medium
+
+  * Non-maintainer upload.
+  * Enabled the omuxsock plugin.
+
+ -- Kevin Elledge <kevin.elledge@gmail.com>  Thu, 08 Jan 2015 09:24:15 -0600
+
 rsyslog (8.6.0.r2-0adiscon4trusty1) trusty; urgency=low
 
   * added package for rsyslog-mmutf8fix

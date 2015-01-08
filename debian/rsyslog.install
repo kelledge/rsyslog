@@ -18,6 +18,7 @@ debian/tmp/usr/lib/rsyslog/lmstrmsrv.so
 debian/tmp/usr/lib/rsyslog/lmtcpclt.so
 debian/tmp/usr/lib/rsyslog/lmtcpsrv.so
 debian/tmp/usr/lib/rsyslog/lmzlibw.so
+debian/tmp/usr/lib/rsyslog/omuxsock.so
 debian/tmp/usr/lib/rsyslog/ommail.so
 debian/tmp/usr/lib/rsyslog/omprog.so
 # debian/tmp/usr/lib/rsyslog/omruleset.so

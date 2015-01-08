@@ -41,7 +41,8 @@ override_dh_auto_configure:
 		--enable-pmciscoios \
 		--enable-jemalloc \
 		--enable-mmutf8fix \
-                --enable-usertools \
+		--enable-usertools \
+		--enable-omuxsock \
 		--disable-testbench \
                 --with-systemdsystemunitdir=/lib/systemd/system
 
